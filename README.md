@@ -16,6 +16,6 @@ https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fp
 ```
 
 ```figma
-https://www.figma.com/proto/zznAtNijYnPEHXZwfQFJZe/CS---data-structures-and-algorithms
+https://www.figma.com/proto/zznAtNijYnPEHXZwfQFJZe/CS-data-structures-and-algorithms?type=design&node-id=322-2445&t=22j0503u6a6r4BTF-1&scaling=contain&page-id=322%3A2150&starting-point-node-id=322%3A2445&mode=design
 ```
 
