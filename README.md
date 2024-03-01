@@ -14,3 +14,8 @@
 ```figma
 https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FzznAtNijYnPEHXZwfQFJZe%2FCS---data-structures-and-algorithms%3Ftype%3Ddesign%26node-id%3D322-3307%26t%3D5c2XTO3FJItSDLtA-1%26scaling%3Dcontain%26page-id%3D322%253A2150%26mode%3Ddesign
 ```
+
+```figma
+https://www.figma.com/proto/zznAtNijYnPEHXZwfQFJZe/CS---data-structures-and-algorithms?type=design&node-id=322-3307&t=5c2XTO3FJItSDLtA-1&scaling=contain&page-id=322%3A2150&mode=design
+```
+
